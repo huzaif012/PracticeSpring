@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 30 23:44:17 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018c-2170-4dd9-000002a5ee00 
+on database directory memory:/Users/huzaif/Developer/Spring boot projects/PracticeSpring/bcf7858d-5eb5-4a02-9f1f-84b81ed2371a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/huzaif/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=17.0.9+8-LTS
+user.dir=/Users/huzaif/Developer/Spring boot projects/PracticeSpring
+os.name=Mac OS X
+os.arch=aarch64
+os.version=14.1.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
